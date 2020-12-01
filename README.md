@@ -1,4 +1,4 @@
-## Hey there! I'm Mounvi 
+## Hey there! I'm Mounvi -Welcome to my GitHub :) 
 ```
 import Student from 'VIT-Vellore';
 
@@ -45,9 +45,9 @@ class Bio extends Student {
 <p align="center"><img src="https://profile-counter.glitch.me/{mounvip1525}/count.svg"/></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mounvip1525&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mounvip1525&show_icons=true&theme=react" /></p>
 <h2 align="center">Top languages</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounvip1525&show_icons=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounvip1525&show_icons=true&theme=react&layout=compact" /></p>
 
 
 <h2 align="center">You can reach me at</h2>
@@ -68,3 +68,5 @@ class Bio extends Student {
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Mounvi's Medium Profile" height="30" width="30">
   </a>  
 </p>
+
+⭐️ From [@mounvip1525](https://github.com/mounvip1525)
