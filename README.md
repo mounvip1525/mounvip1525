@@ -8,16 +8,16 @@ class Bio extends Student {
   title    	 = '2nd year CSE Undergrad';
   pronouns	 = 'moUnvi';
   skills = {    
- 	languages  	        = ['JavaScript', 'Python', ’C’ , ’C++’ , ’Java’];
- 	databases  	        = ['MySQL', 'MongoDB', 'PostgreSQL'];
+ 	languages  	        = ['JavaScript', 'Python', 'C' , 'Java'];
+ 	databases  	        = ['MySQL' , 'PostgreSQL'];
  	frameworks 	        = ['React', 'Flask'];
- 	currently learning      = ['Django', 'MongoDB', 'NodeJS'] ;
+ 	currently learning      = ['Express', 'MongoDB', 'NodeJS'] ;
  	ask me about            = Web development and the languages I know;
 	}
   fun fact = It took less code to send a man to the moon than to run a smartphone!
  }
  ```
-<p align="center"><img width="400"height="400"  src="./readme.gif" /></p>
+<p align="center"><img width="350"height="350"  src="./readme.gif" /></p>
 <h2 align="center"> Tools and Technologies </h2>
 <table align="center">
 <tr>
