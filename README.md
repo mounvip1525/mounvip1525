@@ -8,7 +8,7 @@ class Bio extends Student {
   title    	 = '2nd year CSE Undergrad';
   pronouns	 = 'moUnvi';
   skills = {    
- 	languages  	        = ['JavaScript', 'Python', 'C' , 'Java'];
+ 	languages  	        = ['JavaScript', 'Python' , 'Java'];
  	databases  	        = ['MySQL' , 'PostgreSQL'];
  	frameworks 	        = ['React', 'Flask'];
  	currently learning      = ['Express', 'MongoDB', 'NodeJS'] ;
@@ -69,4 +69,4 @@ class Bio extends Student {
   </a>  
 </p>
 
-⭐️ From [@mounvip1525](https://github.com/mounvip1525)
+//⭐️ From [@mounvip1525](https://github.com/mounvip1525)
