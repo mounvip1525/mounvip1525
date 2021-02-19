@@ -53,20 +53,20 @@ class Bio extends Student {
 <h2 align="center">You can reach me at</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mounvi-podapati-900a841a0/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mounvi's Linkedin Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mounvi's Linkedin Profile" height="40" width="40">
   </a>
   <a href="https://www.instagram.com/im_mounvi15/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Mounvi's Instagram Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Mounvi's Instagram Profile" height="40" width="40">
   </a>
   <a href="https://medium.com/@mounvip1525">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Mounvi's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Mounvi's Medium Profile" height="40" width="40">
   </a>
    <a href="https://www.facebook.com/mounvi.podapati/">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Mounvi's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Mounvi's Medium Profile" height="40" width="40">
   </a>
   <a href="https://github.com/mounvip1525">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Mounvi's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Mounvi's Medium Profile" height="40" width="40">
   </a>  
 </p>
 
-//⭐️ From [@mounvip1525](https://github.com/mounvip1525)
+⭐️ From [@mounvip1525](https://github.com/mounvip1525)
