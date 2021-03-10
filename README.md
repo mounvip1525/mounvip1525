@@ -68,5 +68,3 @@ class Bio extends Student {
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Mounvi's Medium Profile" height="40" width="40">
   </a>  
 </p>
-
-⭐️ From [@mounvip1525](https://github.com/mounvip1525)
