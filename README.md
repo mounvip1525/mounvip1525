@@ -17,6 +17,7 @@ class Bio extends Student {
   fun fact = It took less code to send a man to the moon than to run a smartphone!
  }
  ```
+ <img src="https://spotify-now-playing-git-master-mounvip1525.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 <p align="center"><img width="350"height="350"  src="./readme.gif" /></p>
 <h2 align="center"> Tools and Technologies </h2>
 <table align="center">
