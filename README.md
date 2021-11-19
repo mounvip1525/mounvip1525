@@ -4,8 +4,8 @@ import Student from 'VIT-Vellore';
 
 class Bio extends Student {
   name     	 = 'Mounvi Podapati';
-  age      	 =  18 ;
-  title    	 = '2nd year CSE Undergrad';
+  age      	 =  20 ;
+  title    	 = '3rd year CSE Undergrad';
   pronouns	 = 'moUnvi';
   skills = {    
  	languages  	        = ['JavaScript', 'Python' , 'Java'];
