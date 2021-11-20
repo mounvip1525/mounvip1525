@@ -6,11 +6,10 @@ class Bio extends Student {
   name     	 = 'Mounvi Podapati';
   age      	 =  20 ;
   title    	 = '3rd year CSE Undergrad';
-  pronouns	 = 'moUnvi';
   skills = {    
  	languages  	        = ['JavaScript', 'Python' , 'Java'];
  	databases  	        = ['MySQL'];
- 	libraries & frameworks= ['React', 'Flask'];
+ 	libraries & frameworks  = ['React', 'Flask'];
  	currently learning      = ['Express', 'MongoDB', 'NodeJS'] ;
  	ask me about            = Web development and the languages I know;
 	}
