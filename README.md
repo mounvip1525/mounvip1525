@@ -13,7 +13,7 @@ class Bio extends Student {
  	currently learning      = ['Express', 'MongoDB', 'NodeJS'] ;
  	ask me about            = Web development and the languages I know;
 	}
-  fun fact = It took less code to send a man to the moon than to run a smartphone!
+  fun fact = It took less code to send a man to the moon than to run a smartphone;)
  }
  ```
  <h2 align="center"><a href="https://myportfolio-mounvi.netlify.app/">My Portfolio</a></h2>
